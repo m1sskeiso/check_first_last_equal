@@ -17,4 +17,4 @@ print("Result is", result_x)
 numbers_y = [75, 65, 35, 75, 30]
 result_y = check_first_last_equal(numbers_y)
 print("Given list:", numbers_y)
-print("Result is", result_y
+print("Result is", result_y)
