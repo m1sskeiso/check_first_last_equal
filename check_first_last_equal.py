@@ -7,7 +7,10 @@ def check_first_last_equal(input_list):
     else:
         # If the list is empty, return False
         return False
-# If the list is empty, return False
+    
 # Test cases
-
+numbers_x = [10, 20, 30, 40, 10]
+result_x = check_first_last_equal(numbers_x)
+print("Given list:", numbers_x)
+print("Result is", result_x)
 
